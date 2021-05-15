@@ -1,7 +1,7 @@
 # Spaceships Game
 This is a sample game of a spaceships battle game inspired by the retro spaceships games.
 
-## Requerimentos
+## Requirements
 * Python
 
 ## Technologies
